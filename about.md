@@ -8,8 +8,6 @@ permalink: /about/
 
 敏捷技术教练，擅长敏捷开发转型（SCRUM，精益开发，Kanban等），敏捷开发技术实践（TDD，Refactor等）
 
-擅长C&C++开发。玩过Python，Swift，APP开发，WEB后台开发等。目前正在研究JS(Node.js)+函数式编程(erlang)。
+擅长C&C++开发。玩过Python，Swift，APP开发，WEB后台开发等。目前正在研究JS(Node.js)+函数式编程(erlang), 开源软件。
 
-业务爱好有阅读（技术书籍，心理学）、写作（专利）、运动（健身，斯诺克）。
-
-同时喜欢参与社区活动，如深圳匠艺，CodeRetreate, APAC,新华都商创友会。
+业务爱好有阅读（技术书籍，心理学）、写作（专利）、运动（健身，斯诺克）.同时喜欢参与社区活动，如深圳匠艺，CodeRetreate, APAC, 新华都商创友会。
